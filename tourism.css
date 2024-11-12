@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-top-section {
+    background-image: url("https://th.bing.com/th/id/OIP.h6kXLi-rNFc1qtnnkCFV0AAAAA?pid=ImgDet&w=199&h=148&c=7&dpr=1.5");
+    height: 150px;
+    width:450px;
+
+    background-size: cover;
+}
+
+.background-top-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+.bottom-section-card {
+    padding: 10px;
+    text-align: left;
+    height: 100px;
+    width: 115px;
+    border: 5px;
+    background-color: #ADD8E6;
+}
+
+.card-item {
+    text-align: center;
+    border: 10px;
+
+}
+
+.card-heading {
+    text-align: center;
+    font-size: 14px;
+}
+
+.card-paragraph {
+    font-size: 12px;
+}
